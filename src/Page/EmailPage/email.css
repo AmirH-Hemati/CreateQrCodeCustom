@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&family=Playfair+Display:ital,wght@1,600&family=Roboto:wght@300&display=swap');
+
+body{
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
+}
+.react-coverfull .react-colorful {
+    height: 150px;
+    width: 150px;
+    gap: 5px;
+  }
+  .react-coverfull .react-colorful__hue {
+    height: 20px;
+    border-radius: 0 0 4px 4px;
+  }
+  .react-coverfull .react-colorful__hue-pointer {
+    width: 20px;
+    height: 20px;
+    
+    border-radius: 50%;
+  }

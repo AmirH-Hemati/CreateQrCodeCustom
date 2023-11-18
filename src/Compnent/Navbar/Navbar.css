@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.container-btn button{
+    padding: 17px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 7px;
+    
+}
+.container-btn{
+    box-shadow: 1px 1px 8px 1px #ceceff75;
+   
+}
+.circle-icon{
+    transform: rotate(180deg);
+    margin: 10px;
+    
+}
